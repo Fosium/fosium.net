@@ -6,7 +6,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://kit.svelte.dev">
+		<a href="https://github.com/fosium">
 			<img src={logo} alt="SvelteKit" />
 		</a>
 	</div>
@@ -21,6 +21,9 @@
 			</li>
 			<li aria-current={$page.url.pathname === '/MPS' ? 'page' : undefined}>
 				<a href="/mps">MPS</a>
+			</li>
+			<li aria-current={$page.url.pathname === '/Map' ? 'page' : undefined}>
+				<a href="/map">Map</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/GPT' ? 'page' : undefined}>
 				<a href="/gpt">GPT</a>

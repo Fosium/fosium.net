@@ -14,6 +14,6 @@
   </style>
   
   <div class="container">
-	<p>In development for later</p>
+	<p>GPT proxy for school perhaps?</p>
   </div>
   
