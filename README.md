@@ -1,4 +1,3 @@
-old and borked version
 
 # create-svelte
 
